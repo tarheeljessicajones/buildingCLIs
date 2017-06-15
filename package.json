@@ -1,0 +1,22 @@
+{
+  "name": "buildingclis",
+  "version": "1.0.0",
+  "description": "Building a command-line interface (CLI) with the package Inquirer.js",
+  "main": "userprompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarheeljessicajones/buildingCLIs.git"
+  },
+  "author": "Jessica Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarheeljessicajones/buildingCLIs/issues"
+  },
+  "homepage": "https://github.com/tarheeljessicajones/buildingCLIs#readme",
+  "dependencies": {
+    "inquirer": "^3.1.0"
+  }
+}
